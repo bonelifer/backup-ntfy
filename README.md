@@ -1,4 +1,4 @@
-# backup-ntfy
+# backup-ntfy | [EN](english-readme.md)
 
 Este script em lote tem como objetivo realizar um backup de arquivos de uma pasta específica e enviar uma notificação via API do ntfy.sh informando se o backup foi concluído com sucesso ou não.
 
